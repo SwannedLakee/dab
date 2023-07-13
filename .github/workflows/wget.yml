@@ -17,13 +17,6 @@ jobs:
       - name: Wget
         run: wget -r -l 2 --reject js --adjust-extension --page-requisites --content-on-error=off --local-encoding=UTF-8 --no-parent -k --retry-on-http-error=429 --wait=10 --random-wait -i links1.txt
 
-      - name: chmod script
-        run: chmod +x www.kanjidamage.com/kanji/script.sh
-
-      - name: run script
-        run: sh www.kanjidamage.com/kanji/script.sh
-
-
       - name: Save
         if: always() # Forces this to run even if wget fails
         uses: stefanzweifel/git-auto-commit-action@v4
