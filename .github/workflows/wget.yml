@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Wget
-        run: wget -X drawabox.com/thirdparty -r -l 2 --reject js --adjust-extension --page-requisites --content-on-error=off --local-encoding=UTF-8 --no-parent -k --retry-on-http-error=429 --wait=10 --random-wait -i links1.txt
+        run: wget -X /thirdparty -r -l 2 --reject js --adjust-extension --page-requisites --content-on-error=off --local-encoding=UTF-8 --no-parent -k --retry-on-http-error=429 --wait=10 --random-wait -i links1.txt
 
       - name: Save
         if: always() # Forces this to run even if wget fails
