@@ -14,6 +14,9 @@ jobs:
       - name: Check out
         uses: actions/checkout@v3
 
+      - name: Backup
+        run: cp -r drawabox.com/ drawabox.com.BAK/
+
       - name: Wget
         run: wget -r -l 2 --reject js --adjust-extension --page-requisites --content-on-error=off --local-encoding=UTF-8 --no-parent -k --retry-on-http-error=429 --wait=10 --random-wait -i links1.txt
 
