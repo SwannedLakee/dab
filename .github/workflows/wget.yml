@@ -18,7 +18,7 @@ jobs:
         run: cp -r drawabox.com/ drawabox.com.BAK/
 
       - name: Wget
-        run: wget -r --reject js --adjust-extension --page-requisites --content-on-error=off --local-encoding=UTF-8 --no-parent -k --retry-on-http-error=429 --wait=10 --random-wait -i links1.txt
+        run: wget -r --level=5 --reject js --adjust-extension --page-requisites --content-on-error=off --local-encoding=UTF-8 --no-parent -k --retry-on-http-error=429 --wait=10 --random-wait -i links1.txt
 
       - name: Save
         #if: always() # Forces this to run even if wget fails
