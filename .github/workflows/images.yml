@@ -17,7 +17,7 @@ jobs:
       - name: grep
         run: |
           rm links2.txt
-          grep -r -o 'https://d15v304a6xpq4b\.cloudfront\.net/lesson_images[^"]*' ./* > links2.txt
+          grep -r -o 'https://d15v304a6xpq4b\.cloudfront\.net/lesson_images[^"]*' ./drawabox.com/* > links2.txt
           sed -i '/\.\/drawabox\.com\/.*\.html:/d' links2.txt
           sed -i 's/.).*//g' links2.txt
 
