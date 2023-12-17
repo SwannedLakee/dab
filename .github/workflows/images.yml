@@ -22,8 +22,8 @@ jobs:
           sed -i 's/.).*//g' links2.txt
           sort -u -o links2.txt links2.txt
 
- #     - name: Wget
-#        run: wget -r --level=5 --reject js --adjust-extension --page-requisites --content-on-error=off --local-encoding=UTF-8 --no-parent -k --retry-on-http-error=429 --wait=10 --random-wait -i links2.txt
+      - name: Wget
+        run: wget -r --level=5 --reject js --adjust-extension --page-requisites --content-on-error=off --local-encoding=UTF-8 --no-parent -k --retry-on-http-error=429 --wait=10 --random-wait -i links2.txt
 
       - name: Save
         #if: always() # Forces this to run even if wget fails
