@@ -17,6 +17,9 @@ jobs:
       - name: Backup
         run: cp -r drawabox.com/ drawabox.com.BAK/
 
+      - name: Wget scrape links
+        run: wget --spider -r --no-parent --no-check-certificate --retry-on-http-error=429 --wait=10 --random-wait -i links1.txt 2>&1 | grep -E -o "(http|https)://[a-zA-Z0-9./?=_-]*" | sort -u
+
       - name: Wget
         run: wget -r --level=5 --reject js --adjust-extension --page-requisites --content-on-error=off --local-encoding=UTF-8 --no-parent -k --retry-on-http-error=429 --wait=10 --random-wait -i links1.txt
 
