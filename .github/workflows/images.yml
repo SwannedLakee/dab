@@ -19,6 +19,7 @@ jobs:
           rm links2.txt
           grep -r -o 'https://d15v304a6xpq4b\.cloudfront\.net/lesson_images[^"]*' ./drawabox.com/* > links2.txt
           sed -i 's/\.\/drawabox\.com\/.*\.html://g' links2.txt
+          sed -i 's|https://d15v304a6xpq4b.cloudfront.net/lesson_images/|file:///C:/lesson_images/|g' ./drawabox.com/*
           sed -i 's/.).*//g' links2.txt
           sort -u -o links2.txt links2.txt
 
