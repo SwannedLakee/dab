@@ -90,7 +90,6 @@ https://d15v304a6xpq4b.cloudfront.net/lesson_images/20f85c70.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/215c9865.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/22ab7489.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/22f559c3.jpg
-https://d15v304a6xpq4b.cloudfront.net/lesson_images/23017429.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/2338c721.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/23577a11.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/23be2294.jpg
@@ -139,6 +138,7 @@ https://d15v304a6xpq4b.cloudfront.net/lesson_images/33a153fe.png
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/33dac9ee.png
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/33ff2a40.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/344c82f0.jpg
+https://d15v304a6xpq4b.cloudfront.net/lesson_images/3499e248.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/3534ba73.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/35e1012d.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/362113fd.jpg
@@ -267,7 +267,6 @@ https://d15v304a6xpq4b.cloudfront.net/lesson_images/6822fd02.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/6922ec6f._SL1500_
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/699d7dd7.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/6a5f89b8.jpg
-https://d15v304a6xpq4b.cloudfront.net/lesson_images/6a630998.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/6b211591.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/6b4409ed.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/6bac0e3b.jpg
@@ -279,6 +278,7 @@ https://d15v304a6xpq4b.cloudfront.net/lesson_images/6d5ac1d2.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/6e8a4f95.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/6ee61e4f.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/706f15ff.jpg
+https://d15v304a6xpq4b.cloudfront.net/lesson_images/70fce52b.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/7190d974.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/721140bf.png
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/72e53dc0.jpg
@@ -298,6 +298,7 @@ https://d15v304a6xpq4b.cloudfront.net/lesson_images/7abc3920.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/7adf1727.png
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/7ae722a2.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/7b5dd97a.jpg
+https://d15v304a6xpq4b.cloudfront.net/lesson_images/7c8210ab.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/7c97f120.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/7d1f3467.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/7d1fdff5.jpg
@@ -324,12 +325,11 @@ https://d15v304a6xpq4b.cloudfront.net/lesson_images/8647e607.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/86cadd15.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/8739a063.png
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/874bd633.png
+https://d15v304a6xpq4b.cloudfront.net/lesson_images/88321bec.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/8835f027.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/888c6d59.png
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/88bd0922.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/8902d40d.jpg
-https://d15v304a6xpq4b.cloudfront.net/lesson_images/897e529e.jpg
-https://d15v304a6xpq4b.cloudfront.net/lesson_images/89c1d03e.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/89ce74e6.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/89e0dafc.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/8a779346.jpg
@@ -477,6 +477,7 @@ https://d15v304a6xpq4b.cloudfront.net/lesson_images/bdba82c6.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/be1ddae6.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/bed15180.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/bee7f3f1.jpg
+https://d15v304a6xpq4b.cloudfront.net/lesson_images/bf522ccf.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/c0447c15.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/c072e256.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/c0a30a54.png
@@ -498,6 +499,7 @@ https://d15v304a6xpq4b.cloudfront.net/lesson_images/c56e1019.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/c61742f4.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/c63c0076.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/c6f6b026.1_ObservationAndMemory
+https://d15v304a6xpq4b.cloudfront.net/lesson_images/c7090cde.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/c74d2b58.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/c7e2adee.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/c9d15685.png
@@ -590,7 +592,6 @@ https://d15v304a6xpq4b.cloudfront.net/lesson_images/f2cb8a24.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/f3048609.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/f33f806e.png
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/f38870a7.jpg
-https://d15v304a6xpq4b.cloudfront.net/lesson_images/f3d7bce1.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/f4181ea2.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/f42f54d5.jpg
 https://d15v304a6xpq4b.cloudfront.net/lesson_images/f47cf767.jpg
