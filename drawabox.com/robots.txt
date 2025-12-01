@@ -1,2 +1,2 @@
-User-agent: serpstatbot
-Disallow: /
+User-Agent: *
+Crawl-delay:30
